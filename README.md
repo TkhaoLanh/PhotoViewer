@@ -14,5 +14,7 @@ Furthermore, user can swipe pictures to the left or right, name of image changes
 - Using Story board to design and add constraints
 
 ## Demo
-Uploading MacinCloud_Popup_1920x1080 - NY135.macincloud.com_6000 - Remote Desktop Connection 2023-10-11 21-12-51.mp4
+
+https://github.com/TkhaoLanh/PhotoViewer/assets/98495637/9b13fbe6-ebfb-46c8-99ea-1dd276501394
+
 
