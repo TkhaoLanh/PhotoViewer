@@ -14,5 +14,5 @@ Furthermore, user can swipe pictures to the left or right, name of image changes
 - Using Story board to design and add constraints
 
 ## Demo
-Uploading MacinCloud_Popup_1920x1080 - NY135.macincloud.com_6000 - Remote Desktop Connection 2023-10-11 21-12-51.mp4…
+Uploading MacinCloud_Popup_1920x1080 - NY135.macincloud.com_6000 - Remote Desktop Connection 2023-10-11 21-12-51.mp4
 
