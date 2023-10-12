@@ -10,6 +10,7 @@ Furthermore, user can swipe pictures to the left or right, name of image changes
 - UISwipeGestureRecognizer
 
 ## Language
+- iOS
 - Swift
 - Using Story board to design and add constraints
 
