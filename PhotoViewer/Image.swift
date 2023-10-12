@@ -10,9 +10,9 @@ import Foundation
 class Image{
     lazy var listOfImages : [String: String] = {
         return [
-            "Autumn Leafs": "https://images.freeimages.com/images/large-previews/06b/elvin-siew-chun-wai-autumn-fall-tree-forest-nature-landscape-1638672.jpg",
-            "Stream": "https://www.weatherstationadvisor.com/wp-content/uploads/2021/07/autumn-trees.jpg",
-            "Maple Leaves": "https://www.weatherstationadvisor.com/wp-content/uploads/2021/07/white-mountain-national-forest.jpg"
+            "Autumn Leafs": "https://images.twinkl.co.uk/tw1n/image/private/t_630/u/ux/what-is-fall-autumn-maple-trees-road_ver_1.jpg",
+            "Stream": "https://www.hickerphoto.com/images/1024/fall-forest.jpg",
+            "Maple Leaves": "https://rhythmsofplay.com/wp-content/uploads/2023/10/How-to-preserve-leaves-fbpin-600.jpg"
         ]
     }()
     
